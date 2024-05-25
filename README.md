@@ -1,1 +1,1 @@
-# vscode-setting
+# VS Code Setting
